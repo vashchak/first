@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git status
+=======
+git pull
+>>>>>>> c60fd5f2dd2df7312b54c8ab43b36a63de34f1d8
